@@ -81,6 +81,7 @@ public class Main {
         // 처음에는 시작 화면
         frame.showStart();
         //push 2.0
+        //push 2.2
     }
 }
 
