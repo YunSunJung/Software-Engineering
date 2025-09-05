@@ -1,0 +1,21 @@
+# Eclipse / Java
+.classpath
+.project
+.settings/
+bin/
+target/
+out/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 다른 IDE 대비
+.idea/
+*.iml
+
+# 빌드/로그 산출물
+*.log
+*.jar
+*.zip
